@@ -1,3 +1,3 @@
 export default function SomeRoute2Page() {
-    return <div>SomeRoute2Page</div>;
+  return <div>This path not work!!</div>;
 }
