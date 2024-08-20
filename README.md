@@ -1,13 +1,15 @@
 # Next.js examples
 
-A collection of examples/test-cases of Next.js' each features.
+Showcases for each Next.js features you might want to know.
 
 ## Setup
 
-- Next 14
-- 
+- Next 14.2
+- React 18.3
+- TypeScript, EsLint, Prettier
 
 ## Goals
 
-- Isolated 
-- 
+- Reproducible repos
+- Minimal context
+- No manual installation
